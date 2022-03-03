@@ -15,7 +15,7 @@ USERS_FILE = "users.json"
 SERVER_URL = "http://kitbox{num}.kit-invest.ru/KitBoxService.svc/SendRequest"
 
 TIME_POLL_SEC = 90
-TG_TOKEN = os.environ.get("TG_TOKEN")
+TG_TOKEN = os.environ.get("5196291560:AAFUBlDSIXemVjTrb5MXzjJr4BaWkZJYRqI")
 EMOJI_OK = "\U0001f7E2"
 EMOJI_FAIL = "\U0001f534"
 
